@@ -1,1 +1,4 @@
-console.log("Hello world");
+function onClickButton() {
+    document.getElementById("text").value = "";
+}
+
