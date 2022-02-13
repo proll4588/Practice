@@ -34,10 +34,10 @@ body {
 
 .two input {
     width: 100%;
-    min-width: 150px;
+    /* min-width: 150px; */
     color: #5e9ea7;
     font-family: inherit;
-    font-size: 75px;
+    font-size: 65px;
     box-sizing: border-box;
     background: transparent;
     border-radius: 10px;
