@@ -32,6 +32,11 @@ body {
     justify-content: center; */
 }
 
+input::-webkit-input-placeholder {
+    color: red;
+    font-size: 60px;
+}
+
 .two input {
     width: 100%;
     /* min-width: 150px; */
