@@ -22,9 +22,10 @@ form.addEventListener ('submit', function(event){
 
 removeValidation();
    
-if (!text.value) {
+if (!input.value) {
       let error = generateError('Введите текст');
-      text.parentElement.insertBefore(error,text);
+      input.parentElement.insertBefore(error,text);
+      return;
    }
 
 let myText = document.getElementById('myText');
