@@ -51,9 +51,8 @@ input::-webkit-input-placeholder {
 }
 
 .add {
-    width: 15%;
-   max-width: 150px;
-   margin: 0 10px 20px 0;   
+       
+   margin: 0 15px 20px 0;   
 } 
 
 .add button {
@@ -63,6 +62,7 @@ input::-webkit-input-placeholder {
     border-radius: 10px;
     background: #5a9aa3;
     cursor: pointer;
+    padding: 0px 20px;
 }
 
 .add button:hover {
