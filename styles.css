@@ -26,7 +26,7 @@ body {
 }
 
 .two {
-    /* margin: 0 20px 20px 20px;*/
+    margin: 0 20px 20px 20px;
     display: flex; 
     /* flex-direction: column;
     justify-content: center; */
@@ -52,9 +52,9 @@ input::-webkit-input-placeholder {
 }
 
 .add {
-   /*  width: 150px;
-    max-width: 100%;
-    margin: 0 20px 20px 20px;    */
+   width: 10%;
+   min-width: 100px;
+    margin: 0 10px 20px 0;   
 } 
 
 .add button {
