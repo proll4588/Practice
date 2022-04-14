@@ -39,7 +39,6 @@ input::-webkit-input-placeholder {
 
 .two input {
     width: 100%;
-    /* min-width: 150px; */
     color: #5e9ea7;
     font-family: inherit;
     font-size: 65px;
@@ -52,9 +51,9 @@ input::-webkit-input-placeholder {
 }
 
 .add {
-   width: 10%;
-   min-width: 100px;
-    margin: 0 10px 20px 0;   
+    width: 15%;
+   max-width: 150px;
+   margin: 0 10px 20px 0;   
 } 
 
 .add button {
