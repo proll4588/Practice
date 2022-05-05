@@ -10,7 +10,7 @@ if (!input.value) {
       return;
    }
   
-addEventListener('check', (e) => {
+check.addEventListener('check', (e) => {
 
    let theme = document.getElementById('theme');
 
